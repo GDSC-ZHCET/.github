@@ -2,7 +2,7 @@
       <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <meta charset="UTF-8">
  </head>
-<h3 align="center"  >Google Developer Student Clubs</h3>
+<h3 align="center"  >Google Developer Student Clubs, ZHCET</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdsc-zhcet&label=Profile%20views&color=0e75b6&style=flat" alt="gdsc-zhcet" /> </p>
 
 <h2 align="left">About Us:</h2>
