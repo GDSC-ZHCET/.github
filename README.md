@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
  </head>
 <h3 align="center"  >Google Developer Student Clubs, ZHCET</h3>
-<img width="100%" src="https://raw.githubusercontent.com/tayyab-ilyas/mush-abd/main/GDSC_ZHCET_Centered.png">
+<img width="100%" src="GDSC_ZHCET_Centered.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdsc-zhcet&label=Profile%20views&color=0e75b6&style=flat" alt="gdsc-zhcet" /> </p>
 
 <h2 align="left">About Us:</h2>
@@ -12,7 +12,7 @@
 <h2 align="left">Why Choose Us:</h2>
 
 <font size="2">
-      <p style="font-size:20px">
+      <p style="font-size:20 px">
           <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>Hands-on Workshops.
           <br>
           <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Collaborative Events with Fellow GDSCs.</g-emoji>
