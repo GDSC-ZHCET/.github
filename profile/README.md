@@ -2,12 +2,12 @@
       <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <meta charset="UTF-8">
  </head>
-<h3 align="center"  >Google Developer Student Clubs, ZHCET</h3>
+<h3 align="center">Google Developer Groups on Campus ZHCET</h3>
 <img width="100%" src="GDSC_ZHCET_Centered.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdsc-zhcet&label=Profile%20views&color=0e75b6&style=flat" alt="gdsc-zhcet" /> </p>
 
 <h2 align="left">About Us:</h2>
-<p align="left">Welcome to Google Developer Student Clubs, ZHCET. Google Developer Student Clubs are university-based community groups for students interested in Google developer technologies. By joining a GDSC, students get access to Google Developer resources, build their personal and professional network, and work together to build solutions for local problems in a peer-to-peer learning environment.</p>
+<p align="left">Welcome to Google Developer Groups on Campus, ZHCET. Google Developer Groups on Campus are university-based community groups for students interested in Google developer technologies. By joining a GDGC, students get access to Google Developer resources, build their personal and professional network, and work together to build solutions for local problems in a peer-to-peer learning environment.</p>
 
 <h2 align="left">Why Choose Us:</h2>
 
@@ -21,7 +21,7 @@
           <br>
           <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Codelabs: Get hands-on experience and guidance from the community members.</g-emoji></li>
           <br>
-        <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Build Projects & Compete in the GDSC Solution Challenge.</g-emoji></li>
+        <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Build Projects & Compete in the Google Solution Challenge.</g-emoji></li>
           <br>
         <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡Campus Roadshows: Share knowledge in different Companies,colleges and universities.</g-emoji>
         <br>
@@ -36,9 +36,9 @@
 <p align="left">
 
 
-<a href="https://twitter.com/gzhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gzhcet" height="30" width="40" /></a>
-<a href="https://linkedin.com/company/gdsc-zhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/gdsc-zhcet" height="30" width="40" /></a>
-<a href="https://instagram.com/gdsc_zhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdsc_zhcet" height="30" width="40" /></a>
+<a href="https://x.com/GZhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gzhcet" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/gdgc-zhcet/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/gdsc-zhcet" height="30" width="40" /></a>
+<a href="https://instagram.com/gdgc_zhcet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdsc_zhcet" height="30" width="40" /></a>
 
 </p>
 
