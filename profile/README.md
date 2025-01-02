@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
  </head>
 <h3 align="center">Google Developer Groups on Campus ZHCET</h3>
-<img width="100%" src="GDSC_ZHCET_Centered.png">
+<img width="100%" src="gdgcbanner(final).jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdsc-zhcet&label=Profile%20views&color=0e75b6&style=flat" alt="gdsc-zhcet" /> </p>
 
 <h2 align="left">About Us:</h2>
